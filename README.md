@@ -1,1 +1,1 @@
-### Hi I am Rafe Milner, (Yes, my username does have my last name first, just a habit) I am a fan of Technology. I love using Apple devices, testing beta software, and sometimes if I'm feeling up to it, developing a couple of things, Follow me on all the platforms @milnerrafe.
+### Hi I am Rafe Milner, 👋 (Yes, my username does have my last name first, just a habit) I am a fan of Technology. I love using Apple devices, testing beta software, and sometimes if I'm feeling up to it, developing a couple of things, Follow me on all the platforms @milnerrafe.
