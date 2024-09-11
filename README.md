@@ -8,5 +8,4 @@
 [2]: https://www.youtube.com/channel/UCHv-0ggNFHm16LWs-ID3xKw
 [2-shield]: https://img.shields.io/badge/YouTube-%40milnerrafe-red?style=for-the-badge&logo=Youtube
 
-[3]: https://twitter.com/Milnerrafe
-[3-shield]: https://img.shields.io/badge/Twitter-%40milnerrafe-blue?style=for-the-badge&logo=twitter&logoColor=%23FFFFFF
+
