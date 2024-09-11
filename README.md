@@ -1,5 +1,5 @@
 ### Hi I am Rafe Milner, 👋 I am a fan of Technology. I love using Apple devices, testing beta software, and sometimes if I'm feeling up to it, developing a couple of things, Follow me on all the platforms @milnerrafe.
-[![][1-shield]][1] [![][2-shield]][2] [![][3-shield]][3] 
+[![][1-shield]][1] [![][2-shield]][2]
 
 
 [1]: https://www.threads.net/@milnerrafe
