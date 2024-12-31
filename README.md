@@ -1,4 +1,4 @@
-# Rafe Milner's Links
+# Rafe Milner
 
 Hi, I am Rafe Milner 👋  
 I am a fan of Technology. I love using Apple devices, testing beta software, and sometimes, if I'm feeling up to it, developing a couple of things. Follow me on all the platforms below:
