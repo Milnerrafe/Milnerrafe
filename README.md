@@ -1,20 +1,13 @@
-### Hi I am Rafe Milner, 👋 I am a fan of Technology. I love using Apple devices, testing beta software, and sometimes if I'm feeling up to it, developing a couple of things, Follow me on all the platforms @milnerrafe.
-[![][1-shield]][1] [![][2-shield]][2] [![][3-shield]][3] [![][4-shield]][4]  
+# Rafe Milner's Links
 
-[1]: https://www.threads.net/@milnerrafe
-[1-shield]: https://img.shields.io/badge/threads-%40milnerrafe-purple?style=for-the-badge&logo=threads&logoColor=white&logoColor=white
-
-[2]: https://www.youtube.com/channel/UCHv-0ggNFHm16LWs-ID3xKw
-[2-shield]: https://img.shields.io/badge/YouTube-%40milnerrafe-red?style=for-the-badge&logo=Youtube&logoColor=white
-
-[3]: https://x.com/milnerrafe
-[3-shield]: https://img.shields.io/badge/X-%40milnerrafe-blue?style=for-the-badge&logo=X&logoColor=white
+Hi, I am Rafe Milner 👋  
+I am a fan of Technology. I love using Apple devices, testing beta software, and sometimes, if I'm feeling up to it, developing a couple of things. Follow me on all the platforms below:
 
 
-[4]: https://en.gravatar.com/milnerrafe
-[4-shield]: https://img.shields.io/badge/Gravatar-%40milnerrafe-yellow?style=for-the-badge&logo=Gravatar&logoColor=white
-
-
-
+[![Threads](https://img.shields.io/badge/-Threads-black?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@milnerrafe)
+[![YouTube](https://img.shields.io/badge/-YouTube-black?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCHv-0ggNFHm16LWs-ID3xKw)
+[![X](https://img.shields.io/badge/-X-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/milnerrafe)
+[![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/milnerrafe)
+[![Twitch](https://img.shields.io/badge/-Twitch-black?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/milnerrafe)
 
 
