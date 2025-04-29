@@ -9,6 +9,6 @@ I am a fan of Technology. I love using Apple devices, testing beta software and 
 [![X](https://img.shields.io/badge/-X-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/milnerrafe)
 [![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/milnerrafe)
 [![Twitch](https://img.shields.io/badge/-Twitch-black?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/milnerrafe)
-[![Bluesky](https://img.shields.io/badge/-Bluesky-black?style=for-the-badge&logo=Bluesky&logoColor=white)](https://www.Bluesky./milnerrafe)
+[![Bluesky](https://img.shields.io/badge/-Bluesky-black?style=for-the-badge&logo=Bluesky&logoColor=white)](https://bsky.app/milnerrafe)
 
 
