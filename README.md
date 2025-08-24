@@ -1,7 +1,7 @@
 
 
 # Hi, I am Rafe Milner 👋  
-I am a fan of Technology. I love using Apple devices, testing beta software and developing a couple of things. Follow me on all the platforms below:
+I am a fan of Technology. I love testing beta software and developing a couple of things. Follow me on all the platforms below:
 
 
 [![Threads](https://img.shields.io/badge/-Threads-black?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@milnerrafe)
