@@ -1,8 +1,7 @@
 
 
 # Hi, I am Rafe Milner 👋  
-I am a fan of Technology. I love testing beta software and developing a couple of things. Follow me on all the platforms below:
-
+I am a developer and a designer, follow me on all my socials and check out my code below.
 
 [![Threads](https://img.shields.io/badge/-Threads-black?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@milnerrafe)
 [![YouTube](https://img.shields.io/badge/-YouTube-black?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCHv-0ggNFHm16LWs-ID3xKw)
